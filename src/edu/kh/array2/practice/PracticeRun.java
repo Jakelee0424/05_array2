@@ -6,8 +6,13 @@ public class PracticeRun {
 		
 		Array2Practice ap = new Array2Practice();
 		
-		ap.prac1();
-		
+//		ap.prac1();
+//		ap.practice1();
+//		ap.practice2();
+//		ap.practice3();
+//		ap.practice4();
+		ap.practice5();
+
 	}
 	
 }
